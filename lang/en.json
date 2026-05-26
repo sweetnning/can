@@ -1,0 +1,116 @@
+{
+  "nav": {
+    "home": "Home",
+    "recent": "Recent Work",
+    "projects": "Portfolio",
+    "timeline": "Experience",
+    "skills": "Skills"
+  },
+  "intro": {
+    "avatarAlt": "Li Canning's avatar",
+    "title": "Hello, I'm Canning Li",
+    "desc": "B.S. in Tourism Management, Southeast University<br>M.S. in Sustainable Tourism, CUHK<br>Currently at CYTS Bohn, stationed at Shenzhen Science & Technology Museum"
+  },
+  "recent": {
+    "title": "Recent Work · First Two Months at the Museum",
+    "item1": {
+      "title": "Supplier Communication & Procurement",
+      "desc": "Connecting with venue operation suppliers, managing procurement processes and business negotiations to ensure timely delivery of project materials.",
+      "tags": ["Supply Chain", "Negotiation", "Procurement"]
+    },
+    "item2": {
+      "title": "Brand IP Program Development",
+      "desc": "Participating in venue brand IP strategy planning and development, building a differentiated museum identity and systematic brand framework.",
+      "tags": ["Brand IP", "Strategic Planning", "Venue Identity"]
+    },
+    "item3": {
+      "title": "Douyin & RED Full Operation",
+      "desc": "Building the venue's social media presence from scratch, launching and operating Douyin and Xiaohongshu (RED) channels with content strategy and execution.",
+      "tags": ["Douyin", "Xiaohongshu", "Content Strategy"]
+    },
+    "item4": {
+      "title": "Product Selection & Sales",
+      "desc": "Participating in cultural and creative product selection and sales strategy development, optimizing product mix and improving sales conversion.",
+      "tags": ["Product Selection", "Sales Strategy", "Product Mix"]
+    }
+  },
+  "projects": {
+    "title": "Portfolio",
+    "imgAlt": "Project image",
+    "viewDetail": "View Details",
+    "item1": {
+      "title": "Shenzhen Science & Technology Museum",
+      "desc": "Stationed at Shenzhen Science & Technology Museum project, responsible for venue operation planning, visitor experience design, and project coordination.",
+      "tags": ["Project Management", "Venue Operations", "Experience Design"]
+    },
+    "item2": {
+      "title": "Destination Brand Strategy",
+      "desc": "Providing brand positioning, communication strategy, and marketing solutions for tourism destinations, covering market research, competitive analysis, and brand storytelling.",
+      "tags": ["Brand Strategy", "Destination Marketing", "Market Research"]
+    },
+    "item3": {
+      "title": "Sustainable Tourism Planning",
+      "desc": "Based on sustainable development principles, providing ecological assessment, community engagement design, and green operation solutions for tourism projects.",
+      "tags": ["Sustainable Tourism", "Ecological Assessment", "Community Engagement"]
+    }
+  },
+  "project1": {
+    "title": "Shenzhen Science & Technology Museum",
+    "desc": "Stationed at Shenzhen Science & Technology Museum project, responsible for venue operation planning, visitor experience design, and project coordination.<br><br>Key responsibilities:<br>1) Venue daily operation planning and optimization;<br>2) Visitor flow design and experience planning;<br>3) Cross-department coordination and project management;<br>4) Operational data collection and analysis.",
+    "links": {
+      "detail": "Details"
+    }
+  },
+  "project2": {
+    "title": "Destination Brand Strategy",
+    "desc": "Providing brand positioning, communication strategy, and marketing solutions for tourism destinations.<br><br>Core services:<br>1) Destination brand positioning and differentiation;<br>2) Market research and visitor profiling;<br>3) Brand visual identity and communication planning;<br>4) Integrated online-offline marketing.",
+    "links": {
+      "detail": "Details"
+    }
+  },
+  "project3": {
+    "title": "Sustainable Tourism Planning",
+    "desc": "Based on sustainable development principles, providing ecological assessment, community engagement design, and green operation solutions.<br><br>Work modules:<br>1) Tourism ecological impact assessment;<br>2) Community engagement and benefit-sharing design;<br>3) Green operation standards;<br>4) Sustainable tourism certification support.",
+    "links": {
+      "detail": "Details"
+    }
+  },
+  "projects1": {
+    "imgAlt1": "Project image",
+    "imgAlt2": "Detail image 1",
+    "imgAlt3": "Detail image 2"
+  },
+  "timeline": {
+    "title": "Experience",
+    "event1": {
+      "date": "Undergraduate",
+      "title": "Southeast University · Tourism Management",
+      "desc": "Systematically studied tourism management, covering tourism planning, hospitality management, and marketing. Earned Bachelor's degree."
+    },
+    "event2": {
+      "date": "Postgraduate",
+      "title": "CUHK · Sustainable Tourism",
+      "desc": "In-depth research on sustainable tourism theory and practice, focusing on ecological conservation, community development, and social responsibility. Earned Master's degree."
+    },
+    "event3": {
+      "date": "Present",
+      "title": "CYTS Bohn · Shenzhen S& T Museum",
+      "desc": "Participating in the Shenzhen Science & Technology Museum project, responsible for venue operation planning and project coordination."
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "tourism": "Tourism Management",
+    "brand": "Brand Strategy",
+    "project": "Project Management",
+    "research": "Research & Analysis"
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "Email",
+    "wechat": "WeChat"
+  },
+  "footer": {
+    "copyright": "© 2026 Canning Li | Personal Homepage"
+  }
+}
