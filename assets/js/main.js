@@ -65,6 +65,13 @@
       ],
     },
     {
+      category: 'skills.languages',
+      items: [
+        { name: '英语 IELTS 7.0', icon: 'fas fa-language' },
+        { name: '普通话 母语', icon: 'fas fa-comment' },
+      ],
+    },
+    {
       category: 'skills.research',
       items: [
         { name: '可持续旅游', icon: 'fas fa-leaf' },
