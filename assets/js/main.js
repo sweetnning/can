@@ -83,7 +83,7 @@
   ];
 
   const CONTACT_LINKS = [
-    { icon: 'fas fa-envelope', key: 'contact.email', link: 'mailto:your-email@example.com', cls: '' },
+    { icon: 'fas fa-envelope', key: 'contact.email', link: 'mailto:haleylcn@163.com', cls: '' },
     { icon: 'fab fa-weixin', key: 'contact.wechat', link: '#', cls: 'contact-wechat' },
   ];
 
@@ -236,7 +236,7 @@
         link.href = '#';
         const tooltip = document.createElement('span');
         tooltip.className = 'wechat-tooltip';
-        tooltip.textContent = '微信ID：placeholder';
+        tooltip.textContent = '微信ID：Sco-nn-18';
         link.appendChild(tooltip);
         link.addEventListener('click', (e) => {
           e.preventDefault();
