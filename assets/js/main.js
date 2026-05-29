@@ -31,6 +31,11 @@
   ];
 
   const TIMELINE_EVENTS = [
+    'timeline.event8',
+    'timeline.event7',
+    'timeline.event6',
+    'timeline.event5',
+    'timeline.event4',
     'timeline.event3',
     'timeline.event2',
     'timeline.event1',
@@ -74,10 +79,10 @@
     {
       category: 'skills.research',
       items: [
-        { name: '可持续旅游', icon: 'fas fa-leaf' },
-        { name: '生态评估', icon: 'fas fa-tree' },
-        { name: '政策分析', icon: 'fas fa-file-alt' },
+        { name: '定量研究', icon: 'fas fa-chart-bar' },
+        { name: '质性研究', icon: 'fas fa-comments' },
         { name: '报告撰写', icon: 'fas fa-pencil-alt' },
+        { name: '政策分析', icon: 'fas fa-file-alt' },
       ],
     },
   ];

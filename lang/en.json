@@ -39,40 +39,40 @@
     "imgAlt": "Project image",
     "viewDetail": "View Details",
     "item1": {
-      "title": "Shenzhen Science & Technology Museum",
-      "desc": "Stationed at Shenzhen Science & Technology Museum project, responsible for venue operation planning, visitor experience design, and project coordination.",
-      "tags": ["Project Management", "Venue Operations", "Experience Design"]
+      "title": "Red Tourism Creative Product",
+      "desc": "Special Prize in the National Red Tourism Creative Planning Competition. A brand strategy integrating red culture with green and digital marketing.",
+      "tags": ["Brand Strategy", "Red Tourism", "Creative Design"]
     },
     "item2": {
-      "title": "Destination Brand Strategy",
-      "desc": "Providing brand positioning, communication strategy, and marketing solutions for tourism destinations, covering market research, competitive analysis, and brand storytelling.",
-      "tags": ["Brand Strategy", "Destination Marketing", "Market Research"]
+      "title": "Wellness Tourism Research",
+      "desc": "National innovation project: post-pandemic wellness tourism study based on Cognitive Appraisal Theory. Published in Modern Tourism and presented at an academic conference.",
+      "tags": ["Quantitative Research", "Academic Paper", "Wellness Tourism"]
     },
     "item3": {
-      "title": "Sustainable Tourism Planning",
-      "desc": "Based on sustainable development principles, providing ecological assessment, community engagement design, and green operation solutions for tourism projects.",
-      "tags": ["Sustainable Tourism", "Ecological Assessment", "Community Engagement"]
+      "title": "GoSafari Campsite Study",
+      "desc": "CUHK research project using grounded theory to explore Gen Z travel motivations through in-depth interviews, providing management recommendations.",
+      "tags": ["Qualitative Research", "In-depth Interview", "Grounded Theory"]
     }
   },
   "project1": {
-    "title": "Shenzhen Science & Technology Museum",
-    "desc": "Stationed at Shenzhen Science & Technology Museum project, responsible for venue operation planning, visitor experience design, and project coordination.<br><br>Key responsibilities:<br>1) Venue daily operation planning and optimization;<br>2) Visitor flow design and experience planning;<br>3) Cross-department coordination and project management;<br>4) Operational data collection and analysis.",
+    "title": "Red Tourism Creative Product",
+    "desc": "Special Prize, 11th National Red Tourism Creative Planning Competition.<br><br>Highlights:<br>1) Mined Jiaxing's natural and cultural resources, extracting red and heritage cultural elements;<br>2) Analyzed red tourism market trends and designed interactive DIY creative products that blend culture, practicality, and sustainability;<br>3) Integrated red tourism with green marketing, digital marketing, and brand-building strategies.<br><br>Awarded Special Prize for a complete brand strategy and product design.",
     "links": {
-      "detail": "Details"
+      "detail": "Back to Portfolio"
     }
   },
   "project2": {
-    "title": "Destination Brand Strategy",
-    "desc": "Providing brand positioning, communication strategy, and marketing solutions for tourism destinations.<br><br>Core services:<br>1) Destination brand positioning and differentiation;<br>2) Market research and visitor profiling;<br>3) Brand visual identity and communication planning;<br>4) Integrated online-offline marketing.",
+    "title": "Wellness Tourism Research",
+    "desc": "National Undergraduate Innovation & Entrepreneurship Program: Post-pandemic wellness tourism development based on Cognitive Appraisal Theory.<br><br>Research:<br>1) Collected 400+ survey responses using quantitative methods based on Cognitive Appraisal Theory;<br>2) Built a Structural Equation Model (SEM) of tourist cognition, emotion, and behavioral intention;<br>3) Identified key decision-making factors and proposed development recommendations.<br><br>Published in Modern Tourism and presented at the 2021 China Tourism Research Annual Conference.",
     "links": {
-      "detail": "Details"
+      "detail": "Back to Portfolio"
     }
   },
   "project3": {
-    "title": "Sustainable Tourism Planning",
-    "desc": "Based on sustainable development principles, providing ecological assessment, community engagement design, and green operation solutions.<br><br>Work modules:<br>1) Tourism ecological impact assessment;<br>2) Community engagement and benefit-sharing design;<br>3) Green operation standards;<br>4) Sustainable tourism certification support.",
+    "title": "GoSafari Campsite Study",
+    "desc": "CUHK research project: Guangzhou GoSafari outdoor glamping site study.<br><br>Methodology:<br>1) Led field research and conducted 30+ in-depth interviews with Gen Z tourists and campsite managers;<br>2) Applied grounded theory to systematically code and analyze interview data;<br>3) Developed a motivational model for Gen Z (1996-2010) travel preferences and decision-making.<br><br>Findings provided evidence-based recommendations for improving service facilities and management practices.",
     "links": {
-      "detail": "Details"
+      "detail": "Back to Portfolio"
     }
   },
   "projects1": {
@@ -83,19 +83,44 @@
   "timeline": {
     "title": "Experience",
     "event1": {
-      "date": "Undergraduate",
-      "title": "Southeast University · Tourism Management",
-      "desc": "Systematically studied tourism management, covering tourism planning, hospitality management, and marketing. Earned Bachelor's degree."
+      "date": "2019-2023",
+      "title": "Southeast University · B.S. Tourism Management",
+      "desc": "Systematically studied tourism planning, marketing, and service management."
     },
     "event2": {
-      "date": "Postgraduate",
-      "title": "CUHK · Sustainable Tourism",
-      "desc": "In-depth research on sustainable tourism theory and practice, focusing on ecological conservation, community development, and social responsibility. Earned Master's degree."
+      "date": "2021.03-2021.05",
+      "title": "Red Tourism Creative Competition · Special Prize",
+      "desc": "Designed interactive DIY creative products integrating digital marketing and brand strategy, drawing from Jiaxing's cultural resources."
     },
     "event3": {
+      "date": "2021.11-2022.04",
+      "title": "National Innovation Program · Wellness Tourism Research",
+      "desc": "Collected 400+ survey responses and built an SEM model. Published in Modern Tourism and presented at the China Tourism Research Annual Conference."
+    },
+    "event4": {
+      "date": "2022.06-2023.06",
+      "title": "Chuanghe Zhilian · Marketing Intern",
+      "desc": "Conducted market analysis and brand strategy, built the 'Xu Xiake' cultural IP, with marketing plans boosting performance by 30%."
+    },
+    "event5": {
+      "date": "2023.09-2024.06",
+      "title": "Personal Study Abroad Consulting Studio",
+      "desc": "Independently operated full-cycle consulting, with >95% final draft acceptance rate and 80%+ client admission to target programs."
+    },
+    "event6": {
+      "date": "2024.09-2025.11",
+      "title": "CUHK · M.S. Sustainable Tourism",
+      "desc": "Researched sustainable tourism theory and practice, focusing on ecological conservation, community development, and social responsibility."
+    },
+    "event7": {
+      "date": "2025.03-2025.06",
+      "title": "CUHK · GoSafari Campsite Study",
+      "desc": "Led field research in Guangzhou, conducted 30+ in-depth interviews with Gen Z tourists, and applied grounded theory to build a motivational model."
+    },
+    "event8": {
       "date": "Present",
       "title": "CYTS Bohn · Shenzhen S& T Museum",
-      "desc": "Participating in the Shenzhen Science & Technology Museum project, responsible for venue operation planning and project coordination."
+      "desc": "Participating in venue operations planning, responsible for strategy development and project coordination."
     }
   },
   "skills": {
