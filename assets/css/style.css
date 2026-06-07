@@ -273,7 +273,6 @@ nav {
   transform: scale(0.9);
   transition: opacity 0.3s;
 }
-.avatar-container:hover .avatar-glow { opacity: 0.7; }
 
 .gradient-text {
   font-size: 3rem;
