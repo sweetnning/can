@@ -76,15 +76,6 @@
         { name: '普通话 母语', icon: 'fas fa-comment' },
       ],
     },
-    {
-      category: 'skills.research',
-      items: [
-        { name: '定量研究', icon: 'fas fa-chart-bar' },
-        { name: '质性研究', icon: 'fas fa-comments' },
-        { name: '报告撰写', icon: 'fas fa-pencil-alt' },
-        { name: '政策分析', icon: 'fas fa-file-alt' },
-      ],
-    },
   ];
 
   const CONTACT_LINKS = [
