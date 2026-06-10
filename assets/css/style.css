@@ -463,8 +463,11 @@ h2::after {
    ========================================= */
 .recent-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 20px;
+}
+@media (max-width: 768px) {
+  .recent-grid { grid-template-columns: 1fr; }
 }
 
 .recent-card {
