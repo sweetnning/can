@@ -7,14 +7,14 @@
 
   const PROJECTS = [
     {
-      img: 'assets/images/project-kunpeng.png',
+      img: 'assets/images/project-kunpeng.png?v=2',
       titleKey: 'projects.item3.title',
       descKey: 'projects.item3.desc',
       tags: [],
       link: 'pages/projects/project3.html',
     },
     {
-      img: 'assets/images/project-redtourism.png',
+      img: 'assets/images/project-redtourism.png?v=2',
       titleKey: 'projects.item1.title',
       descKey: 'projects.item1.desc',
       tags: [],
