@@ -7,21 +7,21 @@
 
   const PROJECTS = [
     {
-      img: 'assets/images/project-kunpeng.png?v=2',
+      img: 'assets/images/project-kunpeng.png?v=4',
       titleKey: 'projects.item3.title',
       descKey: 'projects.item3.desc',
       tags: [],
       link: 'pages/projects/project3.html',
     },
     {
-      img: 'assets/images/project-redtourism.png?v=2',
+      img: 'assets/images/project-redtourism.png?v=4',
       titleKey: 'projects.item1.title',
       descKey: 'projects.item1.desc',
       tags: [],
       link: 'pages/projects/project1.html',
     },
     {
-      img: 'assets/images/project-sanxingdui.png?v=2',
+      img: 'assets/images/project-sanxingdui.png?v=4',
       titleKey: 'projects.item2.title',
       descKey: 'projects.item2.desc',
       tags: [],
