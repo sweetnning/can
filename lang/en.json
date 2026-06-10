@@ -9,29 +9,29 @@
   "intro": {
     "avatarAlt": "Li Canning's avatar",
     "title": "Hello, I'm Canning Li",
-    "desc": "B.S. in Tourism Management, Southeast University<br>M.S. in Sustainable Tourism, CUHK<br>Currently at CYTS Bohn, stationed at Shenzhen Science & Technology Museum"
+    "desc": "Cultural & Creative Product Development · Brand Strategy<br>Stationed at Shenzhen Science & Technology Museum, leading venue IP branding and creative product development<br>B.S. Tourism Management, Southeast University / M.S. Sustainable Tourism, CUHK"
   },
   "recent": {
     "title": "Recent Work · First Two Months at the Museum",
     "item1": {
-      "title": "Supplier Communication & Procurement",
-      "desc": "Connecting with venue operation suppliers, managing procurement processes and business negotiations to ensure timely delivery of project materials.",
-      "tags": ["Supply Chain", "Negotiation", "Procurement"]
+      "title": "Supplier System & Procurement Management",
+      "desc": "Connected with 10+ supplier categories, managed the full chain from evaluation → negotiation → contracting, and established a tiered supplier management system.",
+      "tags": ["Supply Chain", "Negotiation", "Supplier Evaluation"]
     },
     "item2": {
-      "title": "Brand IP Program Development",
-      "desc": "Participating in venue brand IP strategy planning and development, building a differentiated museum identity and systematic brand framework.",
-      "tags": ["Brand IP", "Strategic Planning", "Venue Identity"]
+      "title": "Kunpeng IP Brand Strategy",
+      "desc": "Led the Kunpeng IP brand strategy: mapped cross-team priorities and timelines, produced brand playbook and product development roadmap, deployed to GitHub Pages for team collaboration.",
+      "tags": ["Brand IP", "Strategic Planning", "Project Management"]
     },
     "item3": {
-      "title": "Douyin & RED Full Operation",
-      "desc": "Building the venue's social media presence from scratch, launching and operating Douyin and Xiaohongshu (RED) channels with content strategy and execution.",
-      "tags": ["Douyin", "Xiaohongshu", "Content Strategy"]
+      "title": "Social Media Optimization",
+      "desc": "Took over the museum's Douyin and RED (Xiaohongshu) accounts, optimized content strategy and editorial direction, improved engagement and established daily operational workflows.",
+      "tags": ["Douyin", "Xiaohongshu", "Content Optimization"]
     },
     "item4": {
-      "title": "Product Selection & Sales",
-      "desc": "Participating in cultural and creative product selection and sales strategy development, optimizing product mix and improving sales conversion.",
-      "tags": ["Product Selection", "Sales Strategy", "Product Mix"]
+      "title": "Science Toy Product Planning",
+      "desc": "Independently developed a science toy category proposal: including definition, classification, benchmark case studies, 20-item recommendation list, and pricing strategy — ready for supplier engagement and product development.",
+      "tags": ["Product Planning", "Strategy", "Supplier Engagement"]
     }
   },
   "projects": {
@@ -49,9 +49,9 @@
       "tags": ["Quantitative Research", "Academic Paper", "Wellness Tourism"]
     },
     "item3": {
-      "title": "GoSafari Campsite Study",
-      "desc": "CUHK research project using grounded theory to explore Gen Z travel motivations through in-depth interviews, providing management recommendations.",
-      "tags": ["Qualitative Research", "In-depth Interview", "Grounded Theory"]
+      "title": "Kunpeng IP Brand Strategy",
+      "desc": "Shenzhen Science & Technology Museum brand IP initiative: mapped cross-team task breakdowns and timelines, built a card-based priority framework, and deployed a web platform via GitHub Pages for team collaboration.",
+      "tags": ["Brand Strategy", "IP Development", "Project Management"]
     }
   },
   "project1": {
@@ -69,8 +69,8 @@
     }
   },
   "project3": {
-    "title": "GoSafari Campsite Study",
-    "desc": "CUHK research project: Guangzhou GoSafari outdoor glamping site study.<br><br>Methodology:<br>1) Led field research and conducted 30+ in-depth interviews with Gen Z tourists and campsite managers;<br>2) Applied grounded theory to systematically code and analyze interview data;<br>3) Developed a motivational model for Gen Z (1996-2010) travel preferences and decision-making.<br><br>Findings provided evidence-based recommendations for improving service facilities and management practices.",
+    "title": "Kunpeng IP Brand Strategy",
+    "desc": "Shenzhen Science & Technology Museum brand IP initiative.<br><br>Scope:<br>1) Mapped cross-team priorities, timelines, and collaboration workflows into a full brand execution plan;<br>2) Built a card-based priority framework for task visualization and progress tracking;<br>3) Developed and deployed a web platform via GitHub Pages for online team collaboration.<br><br>Delivered the IP strategy from concept to execution through structured project management.",
     "links": {
       "detail": "Back to Portfolio"
     }
@@ -120,7 +120,7 @@
     "event8": {
       "date": "Present",
       "title": "CYTS Bohn · Shenzhen S& T Museum",
-      "desc": "Participating in venue operations planning, responsible for strategy development and project coordination."
+      "desc": "Leading cultural creative product development and brand IP building. Key projects: Kunpeng IP brand strategy & web platform, science toy product planning, social media optimization, and supplier procurement system setup."
     }
   },
   "skills": {
