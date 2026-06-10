@@ -3,7 +3,6 @@
     { key: 'recent.item1', icon: 'fas fa-truck-fast' },
     { key: 'recent.item2', icon: 'fas fa-lightbulb' },
     { key: 'recent.item3', icon: 'fas fa-hashtag' },
-    { key: 'recent.item4', icon: 'fas fa-store' },
   ];
 
   const PROJECTS = [
