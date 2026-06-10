@@ -21,7 +21,7 @@
       link: 'pages/projects/project1.html',
     },
     {
-      img: '',
+      img: 'assets/images/project-sanxingdui.png?v=2',
       titleKey: 'projects.item2.title',
       descKey: 'projects.item2.desc',
       tags: [],
